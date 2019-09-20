@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="inputs">abcdefghijklmnopqrstuvwyz ABCDEFGHIJKLMNOPQRSTUVWYZ 0123456789 _.</string>
+</resources>

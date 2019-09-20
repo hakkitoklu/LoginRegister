@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blue">#0000FF</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="kturunc">#ff8000</color>
+    <color name="mag">#0088a1</color>
+</resources>
